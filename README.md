@@ -62,8 +62,11 @@ This was made from scratch by "Nullkiss" "Elofinky" *all me diferaint account na
 
 Thank you for your interest in the My Zombies C2 Framework! We hope you find it useful for your projects. Happy coding!
 
+## Images of the UI and some other things
 
-# Images of the UI and some other things
-
+![image](https://github.com/user-attachments/assets/ba5afada-4e1b-461f-9d91-228ea247e834)
+![image](https://github.com/user-attachments/assets/8f33999a-19f4-451d-ae01-47064e98c282)
+![image](https://github.com/user-attachments/assets/c9e13bf6-0345-4436-b464-f6cc8a165725)
+![image](https://github.com/user-attachments/assets/4bc5b49f-413c-4be8-b6e0-681636747bde)
 
 
